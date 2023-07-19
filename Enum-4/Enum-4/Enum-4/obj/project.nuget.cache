@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xF5+GBdUIp5PliDPpJNhXriGEnegEZa9rJdO5DecnjUPl8f7CiPIyGp/C3lANRlxdUZDY0QjU4jImoT1QQVCpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zshah\\OneDrive\\Desktop\\LP1\\EnumExcersises-6\\Enum-4\\Enum-4\\Enum-4\\Enum-4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zshah\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

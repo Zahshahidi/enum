@@ -1,0 +1,16 @@
+C:\Users\zshah\OneDrive\Desktop\LP1\EnumExcersises\EnumExcersises\bin\Debug\net5.0\EnumExcersises.exe
+C:\Users\zshah\OneDrive\Desktop\LP1\EnumExcersises\EnumExcersises\bin\Debug\net5.0\EnumExcersises.deps.json
+C:\Users\zshah\OneDrive\Desktop\LP1\EnumExcersises\EnumExcersises\bin\Debug\net5.0\EnumExcersises.runtimeconfig.json
+C:\Users\zshah\OneDrive\Desktop\LP1\EnumExcersises\EnumExcersises\bin\Debug\net5.0\EnumExcersises.runtimeconfig.dev.json
+C:\Users\zshah\OneDrive\Desktop\LP1\EnumExcersises\EnumExcersises\bin\Debug\net5.0\EnumExcersises.dll
+C:\Users\zshah\OneDrive\Desktop\LP1\EnumExcersises\EnumExcersises\bin\Debug\net5.0\ref\EnumExcersises.dll
+C:\Users\zshah\OneDrive\Desktop\LP1\EnumExcersises\EnumExcersises\bin\Debug\net5.0\EnumExcersises.pdb
+C:\Users\zshah\OneDrive\Desktop\LP1\EnumExcersises\EnumExcersises\obj\Debug\net5.0\EnumExcersises.csproj.AssemblyReference.cache
+C:\Users\zshah\OneDrive\Desktop\LP1\EnumExcersises\EnumExcersises\obj\Debug\net5.0\EnumExcersises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zshah\OneDrive\Desktop\LP1\EnumExcersises\EnumExcersises\obj\Debug\net5.0\EnumExcersises.AssemblyInfoInputs.cache
+C:\Users\zshah\OneDrive\Desktop\LP1\EnumExcersises\EnumExcersises\obj\Debug\net5.0\EnumExcersises.AssemblyInfo.cs
+C:\Users\zshah\OneDrive\Desktop\LP1\EnumExcersises\EnumExcersises\obj\Debug\net5.0\EnumExcersises.csproj.CoreCompileInputs.cache
+C:\Users\zshah\OneDrive\Desktop\LP1\EnumExcersises\EnumExcersises\obj\Debug\net5.0\EnumExcersises.dll
+C:\Users\zshah\OneDrive\Desktop\LP1\EnumExcersises\EnumExcersises\obj\Debug\net5.0\ref\EnumExcersises.dll
+C:\Users\zshah\OneDrive\Desktop\LP1\EnumExcersises\EnumExcersises\obj\Debug\net5.0\EnumExcersises.pdb
+C:\Users\zshah\OneDrive\Desktop\LP1\EnumExcersises\EnumExcersises\obj\Debug\net5.0\EnumExcersises.genruntimeconfig.cache

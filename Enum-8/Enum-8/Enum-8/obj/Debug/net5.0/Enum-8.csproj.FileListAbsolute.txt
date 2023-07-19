@@ -1,0 +1,16 @@
+C:\Users\zshah\OneDrive\Desktop\LP1\EnumExcersises\Enum-8\Enum-8\Enum-8\bin\Debug\net5.0\Enum-8.exe
+C:\Users\zshah\OneDrive\Desktop\LP1\EnumExcersises\Enum-8\Enum-8\Enum-8\bin\Debug\net5.0\Enum-8.deps.json
+C:\Users\zshah\OneDrive\Desktop\LP1\EnumExcersises\Enum-8\Enum-8\Enum-8\bin\Debug\net5.0\Enum-8.runtimeconfig.json
+C:\Users\zshah\OneDrive\Desktop\LP1\EnumExcersises\Enum-8\Enum-8\Enum-8\bin\Debug\net5.0\Enum-8.runtimeconfig.dev.json
+C:\Users\zshah\OneDrive\Desktop\LP1\EnumExcersises\Enum-8\Enum-8\Enum-8\bin\Debug\net5.0\Enum-8.dll
+C:\Users\zshah\OneDrive\Desktop\LP1\EnumExcersises\Enum-8\Enum-8\Enum-8\bin\Debug\net5.0\ref\Enum-8.dll
+C:\Users\zshah\OneDrive\Desktop\LP1\EnumExcersises\Enum-8\Enum-8\Enum-8\bin\Debug\net5.0\Enum-8.pdb
+C:\Users\zshah\OneDrive\Desktop\LP1\EnumExcersises\Enum-8\Enum-8\Enum-8\obj\Debug\net5.0\Enum-8.csproj.AssemblyReference.cache
+C:\Users\zshah\OneDrive\Desktop\LP1\EnumExcersises\Enum-8\Enum-8\Enum-8\obj\Debug\net5.0\Enum-8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zshah\OneDrive\Desktop\LP1\EnumExcersises\Enum-8\Enum-8\Enum-8\obj\Debug\net5.0\Enum-8.AssemblyInfoInputs.cache
+C:\Users\zshah\OneDrive\Desktop\LP1\EnumExcersises\Enum-8\Enum-8\Enum-8\obj\Debug\net5.0\Enum-8.AssemblyInfo.cs
+C:\Users\zshah\OneDrive\Desktop\LP1\EnumExcersises\Enum-8\Enum-8\Enum-8\obj\Debug\net5.0\Enum-8.csproj.CoreCompileInputs.cache
+C:\Users\zshah\OneDrive\Desktop\LP1\EnumExcersises\Enum-8\Enum-8\Enum-8\obj\Debug\net5.0\Enum-8.dll
+C:\Users\zshah\OneDrive\Desktop\LP1\EnumExcersises\Enum-8\Enum-8\Enum-8\obj\Debug\net5.0\ref\Enum-8.dll
+C:\Users\zshah\OneDrive\Desktop\LP1\EnumExcersises\Enum-8\Enum-8\Enum-8\obj\Debug\net5.0\Enum-8.pdb
+C:\Users\zshah\OneDrive\Desktop\LP1\EnumExcersises\Enum-8\Enum-8\Enum-8\obj\Debug\net5.0\Enum-8.genruntimeconfig.cache
